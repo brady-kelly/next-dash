@@ -23,7 +23,7 @@ const customers = [
     image_url: '/customers/delba-de-oliveira.png',
   },
   {
-    id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
+    id: '23e4ff11-7d60-4056-923e-3e08e83ae830',
     name: 'Lee Robinson',
     email: 'lee@robinson.com',
     image_url: '/customers/lee-robinson.png',
